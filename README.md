@@ -20,4 +20,6 @@ If the DLL file has no icons or the path does not point to a DLL file, then the 
 Once extracted, an Explorer window will open up to the folder.
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/797d7ca1-8860-44f0-84e6-d832f9b3485e "A screenshot of the 'extracted' folder's contents.")
+<img src="https://github.com/user-attachments/assets/797d7ca1-8860-44f0-84e6-d832f9b3485e" alt="A screenshot of the 'extracted' folder's contents (Windows 10)." width=60% height=60%>
+<img src="https://github.com/user-attachments/assets/a8ad0c37-5c34-4ddd-870b-ca90c1347079" alt="A screenshot of the 'extracted' folder's contents (Windows Vista/7)." width=60% height=60%>
+
